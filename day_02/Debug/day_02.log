@@ -1,2 +1,7 @@
 ﻿  day02_diamond.c
+D:\work\c_file\day_02\day02_diamond.c(66,24): warning C4013: “eat_peach”未定义；假设外部返回 int
+D:\work\c_file\day_02\day02_diamond.c(73,10): warning C4013: “for_test”未定义；假设外部返回 int
+D:\work\c_file\day_02\day02_diamond.c(75,23): warning C4013: “while_conversion_goto”未定义；假设外部返回 int
+D:\work\c_file\day_02\day02_diamond.c(77,15): warning C4013: “do_while_test”未定义；假设外部返回 int
+D:\work\c_file\day_02\day02_diamond.c(81,21): warning C4013: “for_conversion_goto”未定义；假设外部返回 int
   day_02.vcxproj -> D:\work\c_file\day_02\Debug\day_02.exe
