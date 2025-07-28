@@ -1,0 +1,4 @@
+﻿  day_03.c
+D:\work\c_file\day_03\day_03.c(70,2): warning C4033: “Maze”必须返回值
+D:\work\c_file\day_03\day_03.c(71): warning C4715: “Maze”: 不是所有的控件路径都返回值
+  day_03.vcxproj -> D:\work\c_file\day_03\Debug\day_03.exe
